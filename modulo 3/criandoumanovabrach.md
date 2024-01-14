@@ -1,4 +1,4 @@
-### Criando uma nova branc
+### Criando uma nova branch
 
 Comandos necessários para criação de uma nova branch via termainal:
 
