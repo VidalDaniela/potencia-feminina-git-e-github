@@ -1,4 +1,4 @@
-## Notas de aula referente ao módulo 2
+### Notas de aula referente ao módulo 2
 
 Nesta aula estamos aprendendo comandos bem legais e úteis.
 
@@ -11,11 +11,8 @@ Nesta aula estamos aprendendo comandos bem legais e úteis.
 
 ### git add .
 
-**adiciona todos os arquivos  para a esteira de commit**
+**adiciona todos os arquivos para esteira de commit**
 
-### git add [caminho do arquivo]
+### git add[caminho do arquivo]
 
 **adiciona um arquivo em específico**
-
-
-### git commit
