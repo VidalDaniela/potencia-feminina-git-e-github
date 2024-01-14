@@ -1,10 +1,10 @@
 ### Notas de aula referente ao módulo 2
 
-Nesta aula estamos aprendendo comandos bem legais e úteis.
+Nesta aula estamos aprendendo comandos bem legais e úteis. 
 
 
 ### git status
-** verifica o status dos arquivos e pastas dentro do nosso repositório**
+**verifica o status do arquivo e pastas dentro do nosso repositório**
 
 
 ### git add
